@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.10.3",
+  "appInfo": {
+    "name": "C Tutors",
+    "description": "",
+    "version": "xkc8m014",
+    "id": "ckx6mn9wj16469661bs6hq7eudcu",
+    "url": "https://app.amplication.com/ckx6mn9wj16469661bs6hq7eudcu",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckx6mn9wj16469661bs6hq7eudcu",
+      "authProvider": "Jwt"
+    }
+  }
+}
